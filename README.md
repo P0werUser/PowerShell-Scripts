@@ -33,17 +33,10 @@ This repository contains various PowerShell scripts I developed and collected to
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📫 Contact
 
 If you have any questions or suggestions, feel free to contact me:  
-Email: your.email@example.com  
-LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+Email: p.giuliani004@gmail.com
 
 ---
 
