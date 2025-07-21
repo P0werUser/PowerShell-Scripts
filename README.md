@@ -44,8 +44,8 @@ Email: p.giuliani004@gmail.com
 
 Here are a few of my other repositories you might find interesting:
 
-- [HomeLab](https://github.com/yourusername/HomeLab) – My HomeLab setup
-- [Basic-Network-Tools](https://github.com/yourusername/Basic-Network-Tools) – Scripts for network diagnostics
+- [HomeLab](https://github.com/P0werUser/HomeLab) – My HomeLab setup
+- [Basic-Network-Tools](https://github.com/P0werUser/Basic-Network-Tools) – Scripts for network diagnostics
 
 
 Thanks for checking out my scripts! 😊
